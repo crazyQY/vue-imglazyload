@@ -1,4 +1,4 @@
-# vue-imglazyload
+# vue-simple-imglazy
 
 > A Vue component to image lazy loading
 
@@ -6,7 +6,7 @@
 
 ``` bash
 # install dependencies
-npm install vue-imglazyload -S
+npm install vue-simple-imglazy -S
 ```
 
 ## 使用
